@@ -1,5 +1,0 @@
-pyside2-uic tela_usuarios.ui -o tela_usuarios.py
-
-pyside2-uic tela_login.ui -o tela_login.py
-
-pyside2-uic tela_principal.ui -o tela_principal.py
