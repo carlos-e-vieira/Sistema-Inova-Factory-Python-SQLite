@@ -18,5 +18,3 @@ atualizar usuario - OK
 listar usuario - OK
 pesquisar usuario - OK
 tratamento de erro ao cadastrar login existente - PENDENTE
-
-
