@@ -18,3 +18,4 @@ atualizar usuario - OK
 listar usuario - OK
 pesquisar usuario - OK
 tratamento de erro ao cadastrar login existente - PENDENTE
+tratamento de erro ao tentar excluir um usuario não selecionado na table - PENDENTE
